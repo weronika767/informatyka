@@ -8,6 +8,11 @@ int main(){
 	short wiek;
 	cin>> wiek;
 	
+	cout<< "witaj"<<wiek<<"masz"<< wiek <<"lat";
+	
+	
+	
+	
 	
 	
 	
