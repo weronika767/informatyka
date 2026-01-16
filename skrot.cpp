@@ -58,5 +58,16 @@ int main(){
 	
 	//---------------------------------
 	
+	for (int i=0; i <5; i++) // petlia ktora idzie od liczby 0 do liczby 4
+	{
+		// Wypisz liczby
+		cout<<" i wynosi:"<<i<<endl; // wyswietlenie liczb od 0 do 4
+	}
+	
+	
+	
+	
+	
+	
     return 0;
 }
